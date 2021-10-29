@@ -1,4 +1,4 @@
 package com.nts.sudoku;
 
-public class Solver {
+public class SudokuBoard {
 }
